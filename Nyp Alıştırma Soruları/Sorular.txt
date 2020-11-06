@@ -1,0 +1,20 @@
+Soru 1
+CemberDaire isimli sınıf oluşturun. Bu sınıfın yarıçap alan kurucusu
+olmalı.Ayrıca cevre ve alanını hesaplayan metotlar olmalı.
+
+Soru 2
+Ogrenci isimli sınıf oluşturun. Bu sınıfta ogrencinin idsi ve not değeri
+tutulmalı. 100 elemanlı bir dizide id ve not değerlerini rastgele olusturarak
+bu ogrencileri saklayın ve bu ogrencileri aldıkları notlara göre azalan sırada
+yazdıran metotu yazın.
+
+Soru 3
+Javada ki Math sınıfı gibi bir sınıf yapınız. Bu sınıfta toplama, çıkarma,çarpma
+ve bölme gibi işlemler yapılabilsin..
+
+Soru 4
+Bir banka hesabı için sınıf tasarlayın. Bu sınıfta hesabın kime ait oldugunu
+tutan hesapNo, hesaptakiPara, para yatirma ve çekme metotları olsun.
+Ayrıca bu hesaplarda olan tüm parayı, açılan hesap sayısını, yapılan toplam
+paracekme ve para yatırma sayısını gösteren bir metot ve iki hesabı para
+değişkenine göre birbiriyle kıyaslayacak metot bulunmalı.
