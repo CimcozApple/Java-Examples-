@@ -1,0 +1,10 @@
+Bir televizyonun özelliklerini yapabilen bir uygulama yapınız.
+Bu uygulama televizyonu açıp kapatabilmeli. Sesi arttırıp azaltabilmeli.
+Televizyonun adı ve kaç ekran oldugu bilgisini kullanıcıdan alarak açılırken
+ekrana yazdırın.
+Televizyon açık ise kanal değiştirebilmeli. Her kanalın kendi numarası ve adı
+olmalı. Kanallar haber ve müzik olmak üzere 2 farklı kategoride olabilir. Bu
+kanalları statik olarak kod içinde oluşturabilirsiniz.
+Haber kanalında yerli yabancı olup olmadıgı bilgisi ve müzik kanalında ise
+hangi tür müzik çaldıgını tutan string bir değeriniz olmalı.
+Gerçek hayattakine benzer şekilde bu yapıyı oluşturun.
